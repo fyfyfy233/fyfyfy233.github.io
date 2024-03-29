@@ -3,7 +3,7 @@ $.ajax({
     type: 'get',
     url: 'https://apis.map.qq.com/ws/location/v1/ip',
     data: {
-        key: 'XF6BZ-LB2RC-DDQ27-A3SYB-CNWL7-LPBOO',
+        key: 'SABBZ-4UECN-E63FJ-SF5JA-7VJKO-JVFWZ',
         output: 'jsonp',
     },
     dataType: 'jsonp',
@@ -104,7 +104,7 @@ function showWelcome() {
                     }
                     break;
                 case "浙江省":
-                    posdesc = "欲把西湖比西子，淡妆浓抹总相宜。触发彩蛋，离我这么近，不来请我吃顿饭？٩(๑•̀ω•́๑)۶";
+                    posdesc = "欲把西湖比西子，淡妆浓抹总相宜。触发彩蛋，离我这么近，不来HDU请我吃顿饭？٩(๑•̀ω•́๑)۶";
                     break;
                 case "河南省":
                     switch (ipLoacation.result.ad_info.city) {
@@ -168,7 +168,7 @@ function showWelcome() {
                     posdesc = "躺在茫茫草原上，仰望蓝天。";
                     break;
                 case "陕西省":
-                    posdesc = "一座西安城，半步《全唐诗》。触发彩蛋，你好呀我的老乡，我老家也是陕西的嘿嘿٩(๑•̀ω•́๑)۶";
+                    posdesc = "一座西安城，半步《全唐诗》。触发彩蛋 “老乡见老乡，两眼泪汪汪”，我老家也是陕西的嘿嘿٩(๑•̀ω•́๑)۶";
                     break;
                 case "甘肃省":
                     posdesc = "羌笛何须怨杨柳，春风不度玉门关。";
@@ -222,4 +222,4 @@ function showWelcome() {
 }
 window.onload = showWelcome;
 // 如果使用了pjax在加上下面这行代码
-//document.addEventListener('pjax:complete', showWelcome);
+document.addEventListener('pjax:complete', showWelcome);

@@ -40,7 +40,7 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> java </category>
           
       </categories>
       
@@ -67,7 +67,7 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 集合 </category>
           
       </categories>
       
@@ -96,7 +96,7 @@
       
       <categories>
           
-          <category> 生活 </category>
+          <category> 知识 </category>
           
       </categories>
       
@@ -123,7 +123,7 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> java </category>
           
       </categories>
       
@@ -150,7 +150,9 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 力扣 </category>
+          
+          <category> 哈希表 </category>
           
       </categories>
       
@@ -177,7 +179,9 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 力扣 </category>
+          
+          <category> 链表 </category>
           
       </categories>
       
@@ -204,7 +208,9 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 力扣 </category>
+          
+          <category> 数组 </category>
           
       </categories>
       
@@ -231,7 +237,9 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 力扣 </category>
+          
+          <category> 栈与队列 </category>
           
       </categories>
       
@@ -258,7 +266,9 @@
       
       <categories>
           
-          <category> 知识 </category>
+          <category> 力扣 </category>
+          
+          <category> 二叉树 </category>
           
       </categories>
       

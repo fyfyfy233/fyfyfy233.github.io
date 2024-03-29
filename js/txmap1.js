@@ -113,7 +113,7 @@ function showWelcome() {
                     }
                     break;
                 case "浙江省":
-                    posdesc = "欲把西湖比西子，淡妆浓抹总相宜。触发彩蛋，离我这么近，不来请我吃顿饭？٩(๑•̀ω•́๑)۶";
+                    posdesc = "欲把西湖比西子，淡妆浓抹总相宜。触发彩蛋，离我这么近，不来HDU请我吃顿饭？٩(๑•̀ω•́๑)۶";
                     break;
                 case "河南省":
                     switch (ipLoacation.result.ad_info.city) {

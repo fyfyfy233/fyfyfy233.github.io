@@ -4,6 +4,209 @@
   
     
     <entry>
+      <title>java基础面试题</title>
+      <link href="/2024/05/24/Interviews/JavaSE/"/>
+      <url>/2024/05/24/Interviews/JavaSE/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> Java基础 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> Java基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mybatis面试题</title>
+      <link href="/2024/05/24/Interviews/Mybatis/"/>
+      <url>/2024/05/24/Interviews/Mybatis/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> Mybatis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> Mybatis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mysql面试题</title>
+      <link href="/2024/05/24/Interviews/Mysql/"/>
+      <url>/2024/05/24/Interviews/Mysql/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> Mysql </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> Mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>RabbitMQ面试题</title>
+      <link href="/2024/05/24/Interviews/MQ/"/>
+      <url>/2024/05/24/Interviews/MQ/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> MQ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> MQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Redis面试题</title>
+      <link href="/2024/05/24/Interviews/Redis/"/>
+      <url>/2024/05/24/Interviews/Redis/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> Redis </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> Redis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>spring,springboot面试题</title>
+      <link href="/2024/05/24/Interviews/spring/"/>
+      <url>/2024/05/24/Interviews/spring/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> spring </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> spring </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JVM面试题</title>
+      <link href="/2024/05/24/Interviews/JVM/"/>
+      <url>/2024/05/24/Interviews/JVM/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 面试 </category>
+          
+          <category> JVM </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 面试 </tag>
+            
+            <tag> JVM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>路遥-可惜没如果</title>
       <link href="/2024/05/20/life/luyao/"/>
       <url>/2024/05/20/life/luyao/</url>
@@ -49,7 +252,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> Java8新特性 </tag>
             
@@ -76,9 +279,9 @@
       
         <tags>
             
-            <tag> 游记 </tag>
-            
             <tag> 周杰伦 </tag>
+            
+            <tag> 游记 </tag>
             
         </tags>
       
@@ -134,7 +337,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> RabbitMQ </tag>
             
@@ -163,7 +366,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> Java高级篇 </tag>
             
@@ -221,7 +424,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> Docker </tag>
             
@@ -250,9 +453,9 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
             <tag> Redis </tag>
+            
+            <tag> java </tag>
             
         </tags>
       
@@ -279,7 +482,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> Java基础篇 </tag>
             
@@ -308,7 +511,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> 集合 </tag>
             
@@ -368,7 +571,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> MybatisPlus </tag>
             
@@ -482,9 +685,9 @@
       
         <tags>
             
-            <tag> 太子湾 </tag>
-            
             <tag> 游记 </tag>
+            
+            <tag> 太子湾 </tag>
             
         </tags>
       
@@ -511,7 +714,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> SpringBoot </tag>
             
@@ -567,7 +770,7 @@
       
         <tags>
             
-            <tag> Java </tag>
+            <tag> java </tag>
             
             <tag> Web </tag>
             
@@ -636,35 +839,6 @@
     
     
     <entry>
-      <title>刷Leecode笔记（四）栈与队列篇</title>
-      <link href="/2024/03/25/leetcode/stack-queue/"/>
-      <url>/2024/03/25/leetcode/stack-queue/</url>
-      
-        <content type="html"><![CDATA[<h1 id="栈与队列篇"><a href="#栈与队列篇" class="headerlink" title="栈与队列篇"></a>栈与队列篇</h1><h1 id="用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素"><a href="#用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素" class="headerlink" title="用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素"></a>用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素</h1><h1 id="栈与队列"><a href="#栈与队列" class="headerlink" title="栈与队列"></a>栈与队列</h1><h3 id="232-用栈实现队列"><a href="#232-用栈实现队列" class="headerlink" title="232.用栈实现队列"></a>232.用栈实现队列</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">MyQueue</span> &#123;</span><br><span class="line">    Stack&lt;Integer&gt; stackIn;</span><br><span class="line">    Stack&lt;Integer&gt; stackOut;</span><br><span class="line">    <span class="keyword">public</span> <span class="title function_">MyQueue</span><span class="params">()</span> &#123;</span><br><span class="line">        stackIn = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();<span class="comment">// 负责进栈</span></span><br><span class="line">        stackOut = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();<span class="comment">// 负责出栈</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 入队的操作,过程即将数据压入进栈</span></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">push</span><span class="params">(<span class="type">int</span> x)</span> &#123;</span><br><span class="line">        stackIn.push(x);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">InTuOut</span><span class="params">()</span> &#123;</span><br><span class="line">        <span class="keyword">if</span> (!stackOut.isEmpty()) &#123;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">while</span> (!stackIn.isEmpty()) &#123;</span><br><span class="line">            stackOut.push(stackIn.pop());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 从队列的开头移除元素，将In栈的元素全部放到out栈中，</span></span><br><span class="line">    <span class="comment">// 再从out栈移除即可，所以需要写一个移动函数</span></span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">pop</span><span class="params">()</span> &#123;</span><br><span class="line">        InTuOut();</span><br><span class="line">        <span class="keyword">return</span> stackOut.pop();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">peek</span><span class="params">()</span> &#123;</span><br><span class="line">        InTuOut();</span><br><span class="line">        <span class="keyword">return</span> stackOut.peek();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">empty</span><span class="params">()</span> &#123;</span><br><span class="line">        <span class="keyword">return</span> stackIn.isEmpty() &amp;&amp; stackOut.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//模拟，理清思路路，用两个栈模拟队列，入栈的时候，入栈IN，出栈的时候，将In栈内元素全部转到OUT栈，再出栈，</span></span><br></pre></td></tr></table></figure><h3 id="225-用队列实现栈"><a href="#225-用队列实现栈" class="headerlink" title="225.用队列实现栈"></a>225.用队列实现栈</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//用两个队列，实现。这样实现没什么意思不想写了</span></span><br></pre></td></tr></table></figure><h3 id="20-有效的括号"><a href="#20-有效的括号" class="headerlink" title="20.有效的括号"></a>20.有效的括号</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">isValid</span><span class="params">(String s)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> s.length();</span><br><span class="line">        <span class="keyword">if</span> (n % <span class="number">2</span> == <span class="number">1</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        Stack&lt;Character&gt; stack = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">char</span> <span class="variable">c</span> <span class="operator">=</span> s.charAt(i);</span><br><span class="line">            <span class="keyword">if</span> (c == <span class="string">&#x27;(&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;)&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span> (c == <span class="string">&#x27;[&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;]&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span> (c == <span class="string">&#x27;&#123;&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;&#125;&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                <span class="keyword">if</span> (stack.isEmpty() || c != stack.pop()) &#123;</span><br><span class="line">                    <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> stack.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//匹配括号，检测到左括号，就入栈右括号即可，最后栈空，或者栈顶元素不等于匹配的元素，就返回false</span></span><br></pre></td></tr></table></figure><h3 id="1047-删除字符串中所有相邻的重复项"><a href="#1047-删除字符串中所有相邻的重复项" class="headerlink" title="1047.删除字符串中所有相邻的重复项"></a>1047.删除字符串中所有相邻的重复项</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> String <span class="title function_">removeDuplicates</span><span class="params">(String s)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> s.length();</span><br><span class="line">        Stack&lt;Character&gt; stack = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">char</span> <span class="variable">c</span> <span class="operator">=</span> s.charAt(i);</span><br><span class="line">            <span class="keyword">if</span> (stack.isEmpty() || c != stack.peek()) &#123;</span><br><span class="line">                stack.push(c);</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                stack.pop();</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// StringBuilder sb = new StringBuilder();</span></span><br><span class="line">        <span class="comment">// while (!stack.isEmpty()) &#123;</span></span><br><span class="line">        <span class="comment">// sb.append(stack.pop());</span></span><br><span class="line">        <span class="comment">// &#125;</span></span><br><span class="line">        <span class="comment">// sb.reverse();</span></span><br><span class="line">        <span class="comment">// return sb.toString();</span></span><br><span class="line">        <span class="type">String</span> <span class="variable">str</span> <span class="operator">=</span> <span class="string">&quot;&quot;</span>;</span><br><span class="line">        <span class="keyword">while</span> (!stack.isEmpty()) &#123;</span><br><span class="line">            str = stack.pop() + str;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> str;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//使用栈，栈空或者下一个字符与栈不同，则入栈，反之出栈，</span></span><br><span class="line"><span class="comment">//使用StringBuilder循环接受出栈元素</span></span><br><span class="line"><span class="comment">//或者直接拼接，为什么直接拼接190ms比循环遍历反转80ms慢了这么多？搞不懂了</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="150-逆波兰表达式"><a href="#150-逆波兰表达式" class="headerlink" title="150.逆波兰表达式"></a>150.逆波兰表达式</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//思路很简单，遇到数字压入栈，遇到字符出栈，计算结果并且入栈，</span></span><br><span class="line"><span class="comment">/*实现过程中的问题，可是给的是String类型的数组，不能用==判断，==判断的是地址值是否相等，charAt()转为字符类型后，因为后面运算要使用Intege.valueOf()把String转为int类型的，所以直接用Sting类型的，调用equals方法去比较值的相等即可</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">evalRPN</span><span class="params">(String[] tokens)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> tokens.length;</span><br><span class="line">        Stack&lt;Integer&gt; sk = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">String</span> <span class="variable">s</span> <span class="operator">=</span> tokens[i];</span><br><span class="line">            <span class="keyword">switch</span> (s) &#123;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;+&quot;</span>:</span><br><span class="line">                    sk.push(sk.pop() + sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;-&quot;</span>:</span><br><span class="line">                    sk.push(-sk.pop() + sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;*&quot;</span>:</span><br><span class="line">                    sk.push(sk.pop() * sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;/&quot;</span>:</span><br><span class="line">                    <span class="comment">// sk.push(sk.pop() / sk.pop());</span></span><br><span class="line">                    <span class="type">int</span> <span class="variable">first</span> <span class="operator">=</span> sk.pop();</span><br><span class="line">                    <span class="type">int</span> <span class="variable">end</span> <span class="operator">=</span> sk.pop();</span><br><span class="line">                    sk.push(end / first);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">default</span>:</span><br><span class="line">                    sk.push(Integer.valueOf(s));</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> sk.pop();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//注意乘法和加法无所谓，没有顺序，除法和减法有顺序的，要注意先后顺序</span></span><br></pre></td></tr></table></figure><h3 id="239-滑动窗口最大值"><a href="#239-滑动窗口最大值" class="headerlink" title="239.滑动窗口最大值"></a>239.滑动窗口最大值</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span>[] maxSlidingWindow(<span class="type">int</span>[] nums, <span class="type">int</span> k) &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> nums.length;</span><br><span class="line">        ArrayList&lt;Integer&gt; list = <span class="keyword">new</span> <span class="title class_">ArrayList</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt;= n - k; i++) &#123;</span><br><span class="line">            <span class="type">int</span> <span class="variable">left</span> <span class="operator">=</span> i;</span><br><span class="line">            <span class="type">int</span> <span class="variable">right</span> <span class="operator">=</span> i + k - <span class="number">1</span>;</span><br><span class="line">            <span class="type">int</span> <span class="variable">max</span> <span class="operator">=</span> nums[left];</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> left + <span class="number">1</span>; j &lt;= right; j++) &#123;</span><br><span class="line">                <span class="keyword">if</span> (nums[j] &gt; max) &#123;</span><br><span class="line">                    max = nums[j];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            list.add(max);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="type">int</span>[] ans = <span class="keyword">new</span> <span class="title class_">int</span>[list.size()];</span><br><span class="line">        <span class="type">int</span> <span class="variable">count</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i : list) &#123;</span><br><span class="line">            ans[count++] = i;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//暴力法，在滑动的数组中寻找最大值，再赋值给数组，复杂度O(n^2)，暴力超时</span></span><br><span class="line"><span class="comment">//可以考虑使用一个双端队列，记录首个范围的最大值max，入队操作，若right大，则左边的全部出队，若已有的大，入队就行（长度大于k左边出队），模拟是这个模拟，代码谢不出来</span></span><br></pre></td></tr></table></figure><h3 id="347-前k个高频元素"><a href="#347-前k个高频元素" class="headerlink" title="347.前k个高频元素"></a>347.前k个高频元素</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span>[] topKFrequent(<span class="type">int</span>[] nums, <span class="type">int</span> k) &#123;</span><br><span class="line">        <span class="type">int</span>[] ans = <span class="keyword">new</span> <span class="title class_">int</span>[k];</span><br><span class="line">        <span class="comment">// map记录元素以及元素出现的次数</span></span><br><span class="line">        HashMap&lt;Integer, Integer&gt; map = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> num : nums) &#123;</span><br><span class="line">            map.put(num, map.getOrDefault(num, <span class="number">0</span>) + <span class="number">1</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// 将map中所有key-value的集合转换为list集合</span></span><br><span class="line">        <span class="comment">// Map.Entry表示java中操作键值对的接口，Map 接口的实现类（如 HashMap）的 entrySet() 方法返回一个包含 Map.Entry</span></span><br><span class="line">        <span class="comment">// 对象的集合</span></span><br><span class="line">        List&lt;Map.Entry&lt;Integer, Integer&gt;&gt; list = <span class="keyword">new</span> <span class="title class_">ArrayList</span>(map.entrySet());</span><br><span class="line">        <span class="comment">// 重写comparator方法。通过比较value的值进行排序</span></span><br><span class="line">        list.sort(<span class="keyword">new</span> <span class="title class_">Comparator</span>&lt;Map.Entry&lt;Integer, Integer&gt;&gt;() &#123;</span><br><span class="line">            <span class="meta">@Override</span></span><br><span class="line">            <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">compare</span><span class="params">(Map.Entry&lt;Integer, Integer&gt; o1, Map.Entry&lt;Integer, Integer&gt; o2)</span> &#123;</span><br><span class="line">                <span class="keyword">return</span> o2.getValue().compareTo(o1.getValue());</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;);</span><br><span class="line">        <span class="comment">// 排序后输出前k个高频元素的key值</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; k; i++) &#123;</span><br><span class="line">            ans[i] = list.get(i).getKey();</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*能想到的常规思路只有，使用HashMap计数，再通过value的值排序，得到前k个高频次的元素，在对map中的value值排序中遇到的问题已经写在了注释里</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">其他题解：使用优先队列，使用堆，我都看不懂</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 力扣 </category>
-          
-          <category> 栈与队列 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> leecode </tag>
-            
-            <tag> 栈与队列 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>刷Leecode笔记（一）数组篇</title>
       <link href="/2024/03/25/leetcode/shuzu/"/>
       <url>/2024/03/25/leetcode/shuzu/</url>
@@ -686,6 +860,35 @@
             <tag> leecode </tag>
             
             <tag> 数组 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>刷Leecode笔记（四）栈与队列篇</title>
+      <link href="/2024/03/25/leetcode/stack-queue/"/>
+      <url>/2024/03/25/leetcode/stack-queue/</url>
+      
+        <content type="html"><![CDATA[<h1 id="栈与队列篇"><a href="#栈与队列篇" class="headerlink" title="栈与队列篇"></a>栈与队列篇</h1><h1 id="用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素"><a href="#用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素" class="headerlink" title="用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素"></a>用队列实现栈，有效的括号，逆波兰表达式，滑动窗口最大值，前K个高频元素</h1><h1 id="栈与队列"><a href="#栈与队列" class="headerlink" title="栈与队列"></a>栈与队列</h1><h3 id="232-用栈实现队列"><a href="#232-用栈实现队列" class="headerlink" title="232.用栈实现队列"></a>232.用栈实现队列</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">MyQueue</span> &#123;</span><br><span class="line">    Stack&lt;Integer&gt; stackIn;</span><br><span class="line">    Stack&lt;Integer&gt; stackOut;</span><br><span class="line">    <span class="keyword">public</span> <span class="title function_">MyQueue</span><span class="params">()</span> &#123;</span><br><span class="line">        stackIn = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();<span class="comment">// 负责进栈</span></span><br><span class="line">        stackOut = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();<span class="comment">// 负责出栈</span></span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 入队的操作,过程即将数据压入进栈</span></span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">push</span><span class="params">(<span class="type">int</span> x)</span> &#123;</span><br><span class="line">        stackIn.push(x);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">InTuOut</span><span class="params">()</span> &#123;</span><br><span class="line">        <span class="keyword">if</span> (!stackOut.isEmpty()) &#123;</span><br><span class="line">            <span class="keyword">return</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">while</span> (!stackIn.isEmpty()) &#123;</span><br><span class="line">            stackOut.push(stackIn.pop());</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="comment">// 从队列的开头移除元素，将In栈的元素全部放到out栈中，</span></span><br><span class="line">    <span class="comment">// 再从out栈移除即可，所以需要写一个移动函数</span></span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">pop</span><span class="params">()</span> &#123;</span><br><span class="line">        InTuOut();</span><br><span class="line">        <span class="keyword">return</span> stackOut.pop();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">peek</span><span class="params">()</span> &#123;</span><br><span class="line">        InTuOut();</span><br><span class="line">        <span class="keyword">return</span> stackOut.peek();</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">empty</span><span class="params">()</span> &#123;</span><br><span class="line">        <span class="keyword">return</span> stackIn.isEmpty() &amp;&amp; stackOut.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//模拟，理清思路路，用两个栈模拟队列，入栈的时候，入栈IN，出栈的时候，将In栈内元素全部转到OUT栈，再出栈，</span></span><br></pre></td></tr></table></figure><h3 id="225-用队列实现栈"><a href="#225-用队列实现栈" class="headerlink" title="225.用队列实现栈"></a>225.用队列实现栈</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//用两个队列，实现。这样实现没什么意思不想写了</span></span><br></pre></td></tr></table></figure><h3 id="20-有效的括号"><a href="#20-有效的括号" class="headerlink" title="20.有效的括号"></a>20.有效的括号</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">isValid</span><span class="params">(String s)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> s.length();</span><br><span class="line">        <span class="keyword">if</span> (n % <span class="number">2</span> == <span class="number">1</span>) &#123;</span><br><span class="line">            <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">        &#125;</span><br><span class="line">        Stack&lt;Character&gt; stack = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">char</span> <span class="variable">c</span> <span class="operator">=</span> s.charAt(i);</span><br><span class="line">            <span class="keyword">if</span> (c == <span class="string">&#x27;(&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;)&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span> (c == <span class="string">&#x27;[&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;]&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> <span class="keyword">if</span> (c == <span class="string">&#x27;&#123;&#x27;</span>) &#123;</span><br><span class="line">                stack.push(<span class="string">&#x27;&#125;&#x27;</span>);</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                <span class="keyword">if</span> (stack.isEmpty() || c != stack.pop()) &#123;</span><br><span class="line">                    <span class="keyword">return</span> <span class="literal">false</span>;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> stack.isEmpty();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//匹配括号，检测到左括号，就入栈右括号即可，最后栈空，或者栈顶元素不等于匹配的元素，就返回false</span></span><br></pre></td></tr></table></figure><h3 id="1047-删除字符串中所有相邻的重复项"><a href="#1047-删除字符串中所有相邻的重复项" class="headerlink" title="1047.删除字符串中所有相邻的重复项"></a>1047.删除字符串中所有相邻的重复项</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> String <span class="title function_">removeDuplicates</span><span class="params">(String s)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> s.length();</span><br><span class="line">        Stack&lt;Character&gt; stack = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">char</span> <span class="variable">c</span> <span class="operator">=</span> s.charAt(i);</span><br><span class="line">            <span class="keyword">if</span> (stack.isEmpty() || c != stack.peek()) &#123;</span><br><span class="line">                stack.push(c);</span><br><span class="line">            &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">                stack.pop();</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// StringBuilder sb = new StringBuilder();</span></span><br><span class="line">        <span class="comment">// while (!stack.isEmpty()) &#123;</span></span><br><span class="line">        <span class="comment">// sb.append(stack.pop());</span></span><br><span class="line">        <span class="comment">// &#125;</span></span><br><span class="line">        <span class="comment">// sb.reverse();</span></span><br><span class="line">        <span class="comment">// return sb.toString();</span></span><br><span class="line">        <span class="type">String</span> <span class="variable">str</span> <span class="operator">=</span> <span class="string">&quot;&quot;</span>;</span><br><span class="line">        <span class="keyword">while</span> (!stack.isEmpty()) &#123;</span><br><span class="line">            str = stack.pop() + str;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> str;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//使用栈，栈空或者下一个字符与栈不同，则入栈，反之出栈，</span></span><br><span class="line"><span class="comment">//使用StringBuilder循环接受出栈元素</span></span><br><span class="line"><span class="comment">//或者直接拼接，为什么直接拼接190ms比循环遍历反转80ms慢了这么多？搞不懂了</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><h3 id="150-逆波兰表达式"><a href="#150-逆波兰表达式" class="headerlink" title="150.逆波兰表达式"></a>150.逆波兰表达式</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//思路很简单，遇到数字压入栈，遇到字符出栈，计算结果并且入栈，</span></span><br><span class="line"><span class="comment">/*实现过程中的问题，可是给的是String类型的数组，不能用==判断，==判断的是地址值是否相等，charAt()转为字符类型后，因为后面运算要使用Intege.valueOf()把String转为int类型的，所以直接用Sting类型的，调用equals方法去比较值的相等即可</span></span><br><span class="line"><span class="comment">*/</span></span><br><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">evalRPN</span><span class="params">(String[] tokens)</span> &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> tokens.length;</span><br><span class="line">        Stack&lt;Integer&gt; sk = <span class="keyword">new</span> <span class="title class_">Stack</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; n; i++) &#123;</span><br><span class="line">            <span class="type">String</span> <span class="variable">s</span> <span class="operator">=</span> tokens[i];</span><br><span class="line">            <span class="keyword">switch</span> (s) &#123;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;+&quot;</span>:</span><br><span class="line">                    sk.push(sk.pop() + sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;-&quot;</span>:</span><br><span class="line">                    sk.push(-sk.pop() + sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;*&quot;</span>:</span><br><span class="line">                    sk.push(sk.pop() * sk.pop());</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">case</span> <span class="string">&quot;/&quot;</span>:</span><br><span class="line">                    <span class="comment">// sk.push(sk.pop() / sk.pop());</span></span><br><span class="line">                    <span class="type">int</span> <span class="variable">first</span> <span class="operator">=</span> sk.pop();</span><br><span class="line">                    <span class="type">int</span> <span class="variable">end</span> <span class="operator">=</span> sk.pop();</span><br><span class="line">                    sk.push(end / first);</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">                <span class="keyword">default</span>:</span><br><span class="line">                    sk.push(Integer.valueOf(s));</span><br><span class="line">                    <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> sk.pop();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//注意乘法和加法无所谓，没有顺序，除法和减法有顺序的，要注意先后顺序</span></span><br></pre></td></tr></table></figure><h3 id="239-滑动窗口最大值"><a href="#239-滑动窗口最大值" class="headerlink" title="239.滑动窗口最大值"></a>239.滑动窗口最大值</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span>[] maxSlidingWindow(<span class="type">int</span>[] nums, <span class="type">int</span> k) &#123;</span><br><span class="line">        <span class="type">int</span> <span class="variable">n</span> <span class="operator">=</span> nums.length;</span><br><span class="line">        ArrayList&lt;Integer&gt; list = <span class="keyword">new</span> <span class="title class_">ArrayList</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt;= n - k; i++) &#123;</span><br><span class="line">            <span class="type">int</span> <span class="variable">left</span> <span class="operator">=</span> i;</span><br><span class="line">            <span class="type">int</span> <span class="variable">right</span> <span class="operator">=</span> i + k - <span class="number">1</span>;</span><br><span class="line">            <span class="type">int</span> <span class="variable">max</span> <span class="operator">=</span> nums[left];</span><br><span class="line">            <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">j</span> <span class="operator">=</span> left + <span class="number">1</span>; j &lt;= right; j++) &#123;</span><br><span class="line">                <span class="keyword">if</span> (nums[j] &gt; max) &#123;</span><br><span class="line">                    max = nums[j];</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">            list.add(max);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="type">int</span>[] ans = <span class="keyword">new</span> <span class="title class_">int</span>[list.size()];</span><br><span class="line">        <span class="type">int</span> <span class="variable">count</span> <span class="operator">=</span> <span class="number">0</span>;</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> i : list) &#123;</span><br><span class="line">            ans[count++] = i;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">//暴力法，在滑动的数组中寻找最大值，再赋值给数组，复杂度O(n^2)，暴力超时</span></span><br><span class="line"><span class="comment">//可以考虑使用一个双端队列，记录首个范围的最大值max，入队操作，若right大，则左边的全部出队，若已有的大，入队就行（长度大于k左边出队），模拟是这个模拟，代码谢不出来</span></span><br></pre></td></tr></table></figure><h3 id="347-前k个高频元素"><a href="#347-前k个高频元素" class="headerlink" title="347.前k个高频元素"></a>347.前k个高频元素</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Solution</span> &#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="type">int</span>[] topKFrequent(<span class="type">int</span>[] nums, <span class="type">int</span> k) &#123;</span><br><span class="line">        <span class="type">int</span>[] ans = <span class="keyword">new</span> <span class="title class_">int</span>[k];</span><br><span class="line">        <span class="comment">// map记录元素以及元素出现的次数</span></span><br><span class="line">        HashMap&lt;Integer, Integer&gt; map = <span class="keyword">new</span> <span class="title class_">HashMap</span>&lt;&gt;();</span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> num : nums) &#123;</span><br><span class="line">            map.put(num, map.getOrDefault(num, <span class="number">0</span>) + <span class="number">1</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// 将map中所有key-value的集合转换为list集合</span></span><br><span class="line">        <span class="comment">// Map.Entry表示java中操作键值对的接口，Map 接口的实现类（如 HashMap）的 entrySet() 方法返回一个包含 Map.Entry</span></span><br><span class="line">        <span class="comment">// 对象的集合</span></span><br><span class="line">        List&lt;Map.Entry&lt;Integer, Integer&gt;&gt; list = <span class="keyword">new</span> <span class="title class_">ArrayList</span>(map.entrySet());</span><br><span class="line">        <span class="comment">// 重写comparator方法。通过比较value的值进行排序</span></span><br><span class="line">        list.sort(<span class="keyword">new</span> <span class="title class_">Comparator</span>&lt;Map.Entry&lt;Integer, Integer&gt;&gt;() &#123;</span><br><span class="line">            <span class="meta">@Override</span></span><br><span class="line">            <span class="keyword">public</span> <span class="type">int</span> <span class="title function_">compare</span><span class="params">(Map.Entry&lt;Integer, Integer&gt; o1, Map.Entry&lt;Integer, Integer&gt; o2)</span> &#123;</span><br><span class="line">                <span class="keyword">return</span> o2.getValue().compareTo(o1.getValue());</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;);</span><br><span class="line">        <span class="comment">// 排序后输出前k个高频元素的key值</span></span><br><span class="line">        <span class="keyword">for</span> (<span class="type">int</span> <span class="variable">i</span> <span class="operator">=</span> <span class="number">0</span>; i &lt; k; i++) &#123;</span><br><span class="line">            ans[i] = list.get(i).getKey();</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> ans;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">/*能想到的常规思路只有，使用HashMap计数，再通过value的值排序，得到前k个高频次的元素，在对map中的value值排序中遇到的问题已经写在了注释里</span></span><br><span class="line"><span class="comment"></span></span><br><span class="line"><span class="comment">其他题解：使用优先队列，使用堆，我都看不懂</span></span><br><span class="line"><span class="comment">*/</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 力扣 </category>
+          
+          <category> 栈与队列 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> leecode </tag>
+            
+            <tag> 栈与队列 </tag>
             
         </tags>
       
